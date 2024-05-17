@@ -1,0 +1,12 @@
+C:\Users\pedro.hfalmeida3\source\repos\PessoaTI20N\PessoaTI20N\bin\Debug\PessoaTI20N.exe.config
+C:\Users\pedro.hfalmeida3\source\repos\PessoaTI20N\PessoaTI20N\bin\Debug\PessoaTI20N.exe
+C:\Users\pedro.hfalmeida3\source\repos\PessoaTI20N\PessoaTI20N\bin\Debug\PessoaTI20N.pdb
+C:\Users\pedro.hfalmeida3\source\repos\PessoaTI20N\PessoaTI20N\obj\Debug\PessoaTI20N.csproj.AssemblyReference.cache
+C:\Users\pedro.hfalmeida3\source\repos\PessoaTI20N\PessoaTI20N\obj\Debug\PessoaTI20N.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro.hfalmeida3\source\repos\PessoaTI20N\PessoaTI20N\obj\Debug\PessoaTI20N.Cadastrar.resources
+C:\Users\pedro.hfalmeida3\source\repos\PessoaTI20N\PessoaTI20N\obj\Debug\PessoaTI20N.Form1.resources
+C:\Users\pedro.hfalmeida3\source\repos\PessoaTI20N\PessoaTI20N\obj\Debug\PessoaTI20N.Properties.Resources.resources
+C:\Users\pedro.hfalmeida3\source\repos\PessoaTI20N\PessoaTI20N\obj\Debug\PessoaTI20N.csproj.GenerateResource.cache
+C:\Users\pedro.hfalmeida3\source\repos\PessoaTI20N\PessoaTI20N\obj\Debug\PessoaTI20N.csproj.CoreCompileInputs.cache
+C:\Users\pedro.hfalmeida3\source\repos\PessoaTI20N\PessoaTI20N\obj\Debug\PessoaTI20N.exe
+C:\Users\pedro.hfalmeida3\source\repos\PessoaTI20N\PessoaTI20N\obj\Debug\PessoaTI20N.pdb
