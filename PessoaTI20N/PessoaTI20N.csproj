@@ -104,6 +104,7 @@
     <Compile Include="Atualizar.Designer.cs">
       <DependentUpon>Atualizar.cs</DependentUpon>
     </Compile>
+    <Compile Include="Cadast.cs" />
     <Compile Include="Cadastrar.cs">
       <SubType>Form</SubType>
     </Compile>
